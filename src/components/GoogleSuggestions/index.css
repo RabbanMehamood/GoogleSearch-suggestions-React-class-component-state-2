@@ -1,1 +1,26 @@
 /* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.search-input-suggestions-container {
+  box-shadow: 0px 4px 16px 0;
+  padding: 20px;
+  margin-top: 30px;
+}
+.google-logo {
+
+  width: 300px;
+  height: 150px;
+}
+
+.search-input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}

@@ -1,1 +1,16 @@
 /* Write your CSS here */
+.arrow-button {
+  width: 50px;
+  height: 20px;
+}
+.arrow {
+  width: 30px;
+  height: 20px;
+}
+
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
